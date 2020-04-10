@@ -1,0 +1,5 @@
+The Charlottesville Dataset was split into 2 for upload size sake.
+
+The code file performed a PCA and KMeans clustering analysis on the dataset based on user-level metrics (e.g. followership and retweet count). 
+
+Clusterised users and their tweets were written into different files (obtainable by running the codes).
